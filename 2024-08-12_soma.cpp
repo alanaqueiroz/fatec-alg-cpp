@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 main()
 {
     float n1,n2,R; 
@@ -11,6 +12,6 @@ main()
     
     R=n1+n2;
     
-    cout << "A soma dos dois numeros é igual a: " << R << ". \n";
+    cout << "A soma dos dois numeros e igual a: " << R << ". \n";
     cout << "Fim";
 }

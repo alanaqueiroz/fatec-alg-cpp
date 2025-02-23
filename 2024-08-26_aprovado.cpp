@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define qtd_notas 2
+
 main()
 {
     float n1, n2, media; 

@@ -1,8 +1,9 @@
-/*2) Escreva um algoritmo que leia um número e imprima a raiz quadrada do número.*/
+/*2) Escreva um algoritmo que leia um numero e imprima a raiz quadrada do numero.*/
 
 #include <iostream>
 #include <cmath>
 using namespace std;
+
 main()
 {
     float r; 

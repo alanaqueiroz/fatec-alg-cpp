@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 main()
 {
 	float x, y, a, b; 
@@ -15,4 +16,3 @@ main()
     
    	cout << "\nTrocando seus conteudos: X equivale a " << x << ", e Y equivale a " << y << ". \n";
 }
-		

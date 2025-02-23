@@ -1,7 +1,9 @@
-//Faça um algoritmo que receba via teclado a operação (+, -, * e /) e dois números. Calcule e imprima o resultado em vídeo//
+//Faca um algoritmo que receba via teclado a operacao (+, -, * e /) e dois numeros. 
+// Calcule e imprima o resultado em video//
 
 #include <iostream>
 using namespace std;
+
 main()
 {
     float n1, n2,r;

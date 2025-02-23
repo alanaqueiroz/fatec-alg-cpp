@@ -1,4 +1,5 @@
-//3 - Faça um algoritmo que receba a idade, o sexo (gênero) e salário fixo de um funcionário e calcule o abono desse funcionário conforme a Tabela 1//
+//3 - Faça um algoritmo que receba a idade, o sexo (genero) e salário fixo de um funcionario e 
+// calcule o abono desse funcionário conforme a Tabela 1.
 
 #include <iostream>
 using namespace std;

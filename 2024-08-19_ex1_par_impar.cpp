@@ -1,8 +1,9 @@
 /*1) Faça um algoritmo que leia um no inteiro e mostre uma mensagem indicando 
-se este número é par ou ímpar, e se é positivo ou negativo. */
+se este número i par ou impar, e se i positivo ou negativo. */
 
 #include <iostream>
 using namespace std;
+
 main()
 {
     int n,x; 

@@ -1,15 +1,23 @@
 #include <iostream>
 using namespace std;
+
 main()
 {
     float n; 
     char opcao;
-    
     do 
     {
-		cout << "Digite sua nota entre 0 a 10: ";
-		cin>>n;
-		if (n>0.0 && n<3.0)
+    	do 
+		{
+			cout << "\nDigite sua nota de 0 a 10: ";
+			cin>>n; 
+			if (n<0.0 or n>10.0)
+			{
+			cout<<"Nao e possivel calcular notas fora da escala de 0 a 10";
+			}
+		}	
+		while (n<0.0 or n>10.0);
+		if (n>0.0 &&n<3.0)
 		{
 			cout<<"Nota E";
 		}
@@ -32,5 +40,5 @@ main()
 		cout<<"\nDeseja continuar S/N?";
 		cin>>opcao;
 	} 
-	while (opcao == 's' || opcao == 's');
+	while (opcao == 's' || opcao == 'S');
 }
