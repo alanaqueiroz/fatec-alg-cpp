@@ -1,6 +1,6 @@
 # fatecProg1C
 
-# Algoritmos - 1º Semestre
+## Algoritmos - 1º Semestre
 
 Este repositório contém os códigos desenvolvidos durante a matéria de `Algoritmos` no primeiro semestre da minha faculdade `Tecnologia em Banco de Dados`. O foco é o estudo da lógica de programação utilizando a linguagem C++.
 
