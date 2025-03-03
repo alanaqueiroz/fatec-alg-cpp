@@ -52,3 +52,9 @@ Os códigos abordam os seguintes conceitos fundamentais:
 - Linguagem: C++
 - Compilador recomendado: GCC (g++), Online GBD
 - Editor de código recomendado: Visual Studio, Dev-C++
+
+## 📌 Sobre a Disciplina
+
+- **Carga horária**: 80 aulas
+- **Objetivo**: Capacitar o estudante a analisar problemas, e projetar, validar soluções computacionais, por meio de metodologias, técnicas e ferramentas de programação envolvendo elementos básicos da construção de algoritmos e programas de computador.
+- **Ementa**: Método para desenvolvimento de algoritmos. Modularidade e abstração. Tipos de dados básicos e representações gráficas dos principais comandos nas linguagens procedurais. Expressões aritméticas, lógicas e literais. Estruturas básicas de programas (sequência, iteração, seleção simples e múltipla). Algoritmos para manipulação de estruturas básicas.
