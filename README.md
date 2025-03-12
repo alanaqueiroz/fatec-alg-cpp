@@ -40,7 +40,7 @@ Os códigos abordam os seguintes conceitos fundamentais:
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd fatecAlgCpp
+   cd fatec-alg-cpp
    ```
 3. Compile e execute os códigos C++ utilizando um compilador como `g++`:
    ```sh
