@@ -36,7 +36,7 @@ Os códigos abordam os seguintes conceitos fundamentais:
 ## 🚀 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/alanaqueiroz/fatecAlgCpp.git
+   git clone https://github.com/alanaqueiroz/fatec-alg-cpp.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
